@@ -1,10 +1,10 @@
 const urunler = [
-  { ad: "Sony WH-1000XM5", fiyat: 14500, resim: "resimler/sony_xm5.jpg" },
-  { ad: "Apple AirPods Pro 2", fiyat: 9500, resim: "resimler/airpods_pro2.jpg" },
-  { ad: "Bose QuietComfort 45", fiyat: 12000, resim: "resimler/bose_qc45.jpg" },
-  { ad: "JBL Live 660NC", fiyat: 6000, resim: "resimler/jbl_660nc.jpg" },
-  { ad: "Sennheiser HD 450BT", fiyat: 7500, resim: "resimler/sennheiser_hd450bt.jpg" },
-  { ad: "Anker Soundcore Life Q35", fiyat: 4500, resim: "resimler/anker_q35.jpg" },
+  { ad: "Sony WH-1000XM5", fiyat: 14500, resim: "sony_xm5.jpg" },
+  { ad: "Apple AirPods Pro 2", fiyat: 9500, resim: "airpods_pro2.jpg" },
+  { ad: "Bose QuietComfort 45", fiyat: 12000, resim: "bose_qc45.jpg" },
+  { ad: "JBL Live 660NC", fiyat: 6000, resim: "jbl_660nc.jpg" },
+  { ad: "Sennheiser HD 450BT", fiyat: 7500, resim: "sennheiser_hd450bt.jpg" },
+  { ad: "Anker Soundcore Life Q35", fiyat: 4500, resim: "anker_q35.jpg" },
 ];
 
 function olustur() {
@@ -79,3 +79,4 @@ function pahali() {
     `;
   });
 }
+

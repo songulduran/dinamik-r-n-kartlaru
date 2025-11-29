@@ -1,0 +1,1 @@
+# dinamik-r-n-kartlaru

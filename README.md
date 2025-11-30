@@ -3,7 +3,7 @@
 Bu proje, JavaScript kullanarak dinamik ürün kartları üretmek için hazırlanmış bir web uygulamasıdır.
 Kullanıcı, görüntülenecek ürün sayısını seçer ve kartlar tamamen JavaScript tarafından otomatik olarak oluşturulur.
 
-🌐 Canlı Demo
+🌐 Canlı Demo:https://songulduran.github.io/dinamik-r-n-kartlaru/
 
 Projeyi buradan görüntüleyebilirsiniz:
 ➡️ 
